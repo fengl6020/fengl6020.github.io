@@ -1,5 +1,3 @@
-# fionaliii.github.io
-
 ## Welcome 👋 
 
 Wanna take a look at my personal blog?

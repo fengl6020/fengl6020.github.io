@@ -8,7 +8,8 @@ Here it is: [Li Feng's Blog](https://fiona-lily.github.io/)
 
 ## About Myself
 
-Postdoctoral scientist at The Sainsbury Laboratory in the UK
+Postdoctoral scientist at The Sainsbury Laboratory in the UK 
 
-## Aficionado \
+## Aficionado
+
 🧘 🎿 ⛸️ 🎵

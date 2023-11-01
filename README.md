@@ -4,7 +4,7 @@
 
 Wanna take a look at my personal blog?
 
-Here it is: [Li Feng's Blog](https://fionaliii.github.io/index.html)
+Here it is: [Li Feng's Blog](https://fionaliii.github.io/)
 
 ## About Myself
 
